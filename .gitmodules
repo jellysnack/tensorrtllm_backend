@@ -1,3 +1,4 @@
 [submodule "tensorrt_llm"]
 	path = tensorrt_llm
-	url = https://github.com/NVIDIA/TensorRT-LLM.git
+	url = https://github.com/jellysnack/TensorRT-LLM.git
+	branch = ngram_penalty_v0.9.0
